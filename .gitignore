@@ -11,3 +11,6 @@ Thumbs.db
 # Local-only context files
 AGENTS.md
 docs/architecture.md
+
+# Production binaries are published as GitHub Release assets.
+release/
